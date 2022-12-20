@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crown-store/static/css/main.ba90d92b.css",
+    "main.js": "/crown-store/static/js/main.14024b01.js",
+    "static/media/404_page_cover.jpg": "/crown-store/static/media/404_page_cover.6ea98444d9b2b80d15fa.jpg",
+    "static/media/shopping-bag.svg": "/crown-store/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/crown-store/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crown-store/index.html",
+    "main.ba90d92b.css.map": "/crown-store/static/css/main.ba90d92b.css.map",
+    "main.14024b01.js.map": "/crown-store/static/js/main.14024b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba90d92b.css",
+    "static/js/main.14024b01.js"
+  ]
+}
